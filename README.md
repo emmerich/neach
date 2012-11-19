@@ -45,3 +45,5 @@ Pass the parent to the callback.
 Allow arguments to be passed to the function calls
 
 Delegate to browsers forEach
+
+Non-obtrusive JS
